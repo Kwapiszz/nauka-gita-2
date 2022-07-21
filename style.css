@@ -1,0 +1,18 @@
+/* styl css */
+
+body {
+    flex: wrap;
+    display: inline;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    margin: 65px 65px 65px 65px;
+}
+
+h {
+    font-size: 32px;
+}
+
+p {
+    font-size: 24px;
+}
